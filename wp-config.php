@@ -26,7 +26,7 @@ define( 'DB_NAME', 'ASUH' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'helloworld' );
+define( 'DB_PASSWORD', 'Pathfinder11' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
